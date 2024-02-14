@@ -116,8 +116,7 @@ header {
 .category_Items{
 display: flex;
 flex-wrap: wrap;
-
-
+justify-content: space-evenly;
 }
 
 .sale_item{
